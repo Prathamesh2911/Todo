@@ -2,10 +2,7 @@
 # Todo
 
 ## Our Goal
-
-The objective of this tutorial is to understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
-
-
+The objective is to understand how to manage state in Flutter. Learn to use the Provider package to manage our app state.
 ## What you will create
 
 A todolist app to keep track of all your tasks.
